@@ -28,4 +28,4 @@ All the other "art" was made by me
 
 For image (PNG) handling I used SOIL, the Simple OpenGL Image Library.  It handles the dirty work of loading the images for showing the cards and other art.
 
-Most of the audio was made by me using Audacity and my microphone.  The sound when you win a hand is the "Howard Dean scream".
+Most of the audio was made by me using Audacity and my microphone.  The sound when you win a hand is the "Howard Dean scream".  There are issues to be fixed to make this game more refined (see Issues).  This includes audio and graphics.
